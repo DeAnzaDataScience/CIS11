@@ -1,0 +1,47 @@
+Exercise3.ipynb
+Initial part manually summarized data originally from De Anza Fall 2023 Data from https://datamart.cccco.edu/Outcomes/Grades_Distribution_Summary.aspx
+
+For the second part, 
+Original url = 'https://raw.githubusercontent.com/kb22/Heart-Disease-Prediction/master/dataset.csv’
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/dataset.csv
+
+
+Exercise4.ipynb
+Original URL https://raw.githubusercontent.com/data-8/materials-x18/master/lec/x18/1/trip.csv
+But it is larger than 25 MB (42 MB)!!!
+Trying to upload it as datasets_exercises/trip.csv
+
+
+Exercise_6.ipynb
+Original URL https://raw.githubusercontent.com/Geoyi/Cleaning-Titanic-Data/master/titanic_original.csv
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/titanic_original.csv
+
+
+Exercise7.ipynb
+Original URL https://raw.githubusercontent.com/TomaIjatomi/EDA-on-Data-Science-Job-Salaries/master/ds_salaries.csv
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/ds_salaries.csv
+
+
+Exercise8.ipynb
+Stored as https://raw.githubusercontent.com/DeAnzaDataScience/CIS11/main/datasets/deanza_ucla_transfers.csv
+Original Sources: Deanza data was gathered into the deanza_ucla_transfers.csv file from:
+https://admission.ucla.edu/apply/transfer/transfer-profile/2020/community-college
+https://admission.ucla.edu/apply/transfer/transfer-profile/2021/community-college
+https://admission.ucla.edu/apply/transfer/transfer-profile/2022/community-college
+https://admission.ucla.edu/apply/transfer/transfer-profile/2023/community-college
+https://admission.ucla.edu/apply/transfer/transfer-profile/2024/community-college
+
+
+Exercise9.ipynb
+The original source was from https://vincentarelbundock.github.io/Rdatasets/csv/AER/CPSSWEducation.csv
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/CPSSWEducation.csv
+
+
+Exercise10.ipynb
+The original URL for the source is https://raw.githubusercontent.com/mdogy/dataForEng1999/master/sons_heights.csv
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/sons_heights.csv
+
+
+Exercise11.ipynb
+The original URL for the source is https://inferentialthinking.com/data/banknote.csv
+https://github.com/DeAnzaDataScience/CIS11/blob/main/datasets_exercises/banknote.csv
